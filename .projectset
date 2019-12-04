@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<psf version="2.0">
+<provider id="org.eclipse.team.svn.core.svnnature">
+<project reference="1.0.1,https://github.com/dandar3/android-androidx-activity/tags/1.0.0,androidx-activity,f02bd6252716001a1590adb2ced968d4;https://github.com/dandar3/android-androidx-activity;https://github.com/dandar3/android-androidx-activity;branches;tags;trunk;true;cb3cfb2f-4b41-d90d-76e5-ce57b7db7bff;https://github.com/dandar3/android-androidx-activity;;false;;;0"/>
+</provider>
+</psf>
