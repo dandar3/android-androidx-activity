@@ -8,6 +8,7 @@
 	<classpathentry combineaccessrules="false" kind="src" path="/androidx-core"/>
 	<classpathentry combineaccessrules="false" kind="src" path="/androidx-lifecycle-runtime"/>
 	<classpathentry combineaccessrules="false" kind="src" path="/androidx-lifecycle-viewmodel"/>
+	<classpathentry combineaccessrules="false" kind="src" path="/androidx-lifecycle-viewmodel-savedstate"/>
 	<classpathentry combineaccessrules="false" kind="src" path="/androidx-savedstate"/>
 	<classpathentry kind="output" path="bin/classes"/>
 </classpath>
